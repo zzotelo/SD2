@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Sistemas Distribuidos</title>
+    <title>Resultado</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -23,29 +23,18 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Sistemas Distribuidos</h1>
-        <h2>Tercer Parcial</h2>
-        <p>En esta pagina se muestra el despliegue de dos instancias en el servicio de AMAZON WEB SERVICE</p>
-    </section>
-
+        <h1>EL RESULTADO ES: 10</h1>
+    
     <section class="instructions">
-        <h2>Sumar 2 numeros</h2>
+        <h2>Integrantes del equipo:</h2>
         <ul>
-          <li><label for="">Numero 1: </label></li>
-          <input type="text" name="n1">
-          <br>
-          <li><label for="">Numero 2: </label></li>
-          <input type="text" name="n2">
-          
-          <form action="http://ec2-18-224-135-62.us-east-2.compute.amazonaws.com/">
-          <input type="submit" value="RESULTADO" />
-          </form>
-          
-          <br><input type="submit" value="Sumar">
-          
-            
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
-        </ul>
+          <li><label for="">Isela Ivone Mexquitic Ojeda     120461</label></li>
+          <li><label for="">Haziel Alvarado Santiago        120016 </label></li>
+          <li><label for="">Sergio Enrique Ortigosa Muñoz   120361 </label></li>
+          <li><label for="">Daniel Chevaile Hernandez       111086 </label></li>
+          <li><label for="">Francisco Javier Sotelo Pulido  120442 </label></li>
+        
+      
 
     </section>
 
