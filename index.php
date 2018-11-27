@@ -23,8 +23,8 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>El resultado es:</h1>
-        <h2>10</h2>
+        <h1>El resultado es: 10</h1>
+        <h2>:D</h2>
 
     </section>
 
