@@ -24,6 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>EL RESULTADO ES: 10</h1>
+
     
     <section class="instructions">
         <h2>Integrantes del equipo:</h2>
@@ -33,7 +34,7 @@ else
           <li><label for="">Sergio Enrique Ortigosa Muñoz   120361 </label></li>
           <li><label for="">Daniel Chevaile Hernandez       111086 </label></li>
           <li><label for="">Francisco Javier Sotelo Pulido  120442 </label></li>
-        
+        </ul>
       
 
     </section>
